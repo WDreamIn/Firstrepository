@@ -1,0 +1,25 @@
+.goodsmessageout{
+	margin-top: 20px;
+}
+.goodsmessageoutleft{
+	width: 40%;float: left ;
+}
+
+.goodsmessageoutright{
+	width: 60%;float: left ;
+}
+.goodsmessageoutright a{
+	color: #214c90;
+}
+.name_info h4{
+	font-weight:normal;color:darkslategray;margin: 10px 0px;
+}
+.name_info h3{
+margin: 0px;
+}
+.messbox_info{
+	font-size: 12px;
+}
+.commonli{
+	list-style: none;float: left;
+}

@@ -1,0 +1,25 @@
+
+.commontable{
+	boder-colloapse :colloapse;border:1px solid red;
+}
+.commontable td{
+	border:1px solid #DDE4EE;
+	font-size: 14px;
+
+}
+.hovertr:hover {
+	background-color: #324545;color:#ffffff;cursor: pointer;
+
+}
+.hovertr{
+		border:none;
+}
+.innertable{
+	border:none;
+}
+.innertable td{
+	border:none;
+}
+.commona{
+	color:red;border:2px solid gray;
+}
